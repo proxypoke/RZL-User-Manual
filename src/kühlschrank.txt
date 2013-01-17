@@ -1,0 +1,43 @@
+KÜHLSCHRANK(7)
+==============
+slowpoke
+v0.1 2013-01-14
+:doctype: manpage
+:man source: RaumZeitLabor e.V.
+:man manual: RZL User Manual
+
+NAME
+----
+Kühlschrank - Klar Über Haltbarkeit Lagernde Seltsamkeiten und Chemikalien von Häufig Rätselhafter Anordnung und Nichterkennbarer Konsistenz
+
+DESCRIPTION
+-----------
+Kühlschrank kann von Mitgliedern zur kurz- bis mittelfristigen Lagerung von 
+Lebensmitteln oder Getränken verwendet werden, die bei Zimmertemperatur 
+verderben würden. 
+
+Übermässige Nutzung von Kühlschrank ohne regelmässige Defragmentierung führt 
+schnell zu einem EOVERFLOW. Defragmentierung kann und darf von jedem $MITGLIED 
+durchgeführt werden, und wird mit massivem Karma™ belohnt.
+
+LABELS
+------
+Zum Zweck der Identifizierung, Zuordnung und zeitlichen Entsorgung der Inhalte 
+von Kühlschrank stehen in der Schublade neben Kühlschrank vorgedruckte Label 
+zur Verfügung.
+
+Zum Zweck der Enforcier^W freundlichen Ermutigung, diese Labels zu benutzen, 
+gelten folgende Regeln:
+
+. Ungelabelte Dinge in Kühlschrank sind PUBLIC. Beschwere dich nicht, wenn sie 
+jemand isst/trinkt/wegwirft.
+. Links über dem Herd ist ein Schrank, der mit "Tupperware" gelabelt ist. Dort 
+ist drin, was draufsteht - benutze es.
+. Verderbliche Dinge ohne ein erkennbares Mindesthaltbarkeitsdatum (MHD) können 
+kommentar- und gnadenlos entsorgt werden. Dies gilt besonders für geöffnete 
+Dinge.
+
+BUGS
+----
+Hatte Kühlschrank noch keine. Es wurden aber schon andere Lebensformen in 
+Kühlschrank gesichtet.
