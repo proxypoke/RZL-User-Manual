@@ -1,0 +1,19 @@
+RZL User Manual
+===============
+
+Überschau
+---------
+Dokumentation für das RZL - jetzt auch als man-pages!
+
+Kontributierung
+---------------
+Du willst auch eine man-page für $RZLINFRASTRUKTURBESTANDTEIL schreiben? Toll, 
+das ist nämlich dank http://www.methods.co.nz/asciidoc/index.html[Asciidoc] 
+kinderleicht, man muss nur ein paar 
+http://www.methods.co.nz/asciidoc/userguide.html#X1[Konventionen] speziell für 
+man-pages beachten. ``man man-pages`` ist auch zu empfehlen.
+
+Lizenz
+------
+Die Inhalte dieses Repositories stehen unter der Do What The Fuck You Want To 
+Public License. Mach was du willst.
