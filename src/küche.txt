@@ -1,0 +1,49 @@
+KÜCHE (7)
+=========
+slowpoke
+v0.1 2015-02-02
+:doctype: manpage
+:man source: RaumZeitLabor e.V.
+:man manual: RZL User Manual
+
+NAME
+----
+Küche - Köstlich Überbackenes Chaos, Häufig Ekelhaft
+
+DESCRIPTION
+-----------
+Küche kann verwendet werden, um aus Zutaten leckere Gerichte zu kompilieren.
+Dazu muss Küche jedoch in einem benutzbaren Zustand gehalten werden. Dies ist
+die Aufgabe jeder Person, die Küche benutzt. Für Details siehe den Abschnitt
+MAINTENANCE.
+
+Sollte die Benutzbarkeit von Küche eingeschränkt sein, kann das gängige
+menschliche Kommunikationsprotokoll "Reden" benutzt werden, um zu erfragen, ob
+eventuell von anderen vergessen wurde, Küche nach der Benutzung ganz oder
+teilweise aufzuräumen, damit diese das nachholen.
+
+MAINTENANCE
+-----------
+Damit Küche in einem benutzbaren Zustand bleibt, sollten folgende grobe Regeln
+beachtet werden:
+
+* Befördere alle Überreste des Kompiliervorgangs nach /dev/müll.
+* Sollte /dev/müll einen EOVERFLOW zurückgeben, dann sorge dafür, dass der
+  Inhalt von /dev/müll in /dev/draussen/container landet.
+* Säubere alle Geräte, die du während dem Kompiliervorgang verwendet hast.
+* Verfrachte das Geschirr, dass du benutzt hast, nach /dev/spülmaschine.
+* Wenn /dev/spülmaschine einen EOVERFLOW wirft, dann schalte sie an.
+* Gibt /dev/spülmaschine ein SIGFERTIG, dann räume sie aus.
+* Wische alle Arbeitsflächen und den Tisch ab, nachdem du sie benutzt hast.
+
+Es ist okay, wenn das nicht immer sofort nach dem Benutzen von Küche passiert,
+aber es sollte zeitnah erledigt werden. Weise andere freundlich darauf hin,
+damit sie es nicht vergessen.
+
+Ansonsten wird Küche jeden Dienstag grob und jeden ersten Sonntag im Monat
+gründlich geputzt - dies ist aber kein Grund, Küche nicht sauber zu halten.
+
+BUGS
+----
+Küche wird besonders im Sommer gerne von Fliegen heimgesucht. Das sind zwar
+technisch keine Käfer, aber sind trotzdem ziemlich widerlich.
