@@ -1,9 +1,10 @@
 A2X=a2x --doctype=manpage --format=manpage -D man/
 
 .PHONY: all
+
 all:
-	[[ -d man ]] || mkdir man
-	${A2X} src/*.txt
+	$(shell find src -type f -name "*.txt" -exec ${A2X} \{\} \;)
+
 
 .PHONY: clean
 clean:
