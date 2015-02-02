@@ -1,0 +1,42 @@
+HERD (7)
+=========
+slowpoke
+v0.1 2015-02-02
+:doctype: manpage
+:man source: RaumZeitLabor e.V.
+:man manual: RZL User Manual
+
+NAME
+----
+Herd - Hat einige rotierende Drehknöpfe
+
+DESCRIPTION
+-----------
+Herd kann verwendet werden, um Energie in Wärme und damit wiederum Zutaten in
+Essen umzuwandeln. Töpfe und Pfannen findest du unten links oder rechts neben
+Herd.
+
+Bei Benutzung von Herd kann bei Bedarf die Abzugshaube über Herd verwendet
+werden. Diese filtert fettigen Dampf für weniger Ekel, und versorgt Herd mit
+Licht.
+
+MAINTENANCE
+-----------
+
+Herd sollte nach dem Benutzen und Abkühlen kurz abgewischt werden. Bei stärkerer
+Verschmutzung kann Glasreiniger und ein Drahtschwamm verwendet werden, um Herd
+wieder einsatzfähig zu machen.
+
+Töpfe und Pfannen sollten direkt nach Benutzung gereinigt werden. Töpfe können
+je nach Grösse in /dev/spülmaschine eingeräumt werden oder von Hand gewaschen
+werden. Pfannen, die beschichtet sind, bitte von Hand waschen, alle anderen
+können auch in /dev/spülmaschine.
+
+BUGS
+----
+Herd fehlt die Einstellung zwischen Stufe 3 und 4. Ansonsten hat Herd keine
+bekannten Bugs.
+
+SEE ALSO
+--------
+OFEN(7)
